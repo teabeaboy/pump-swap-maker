@@ -70,5 +70,5 @@ MIT License - See LICENSE file for details
 
 Join our community and get support:
 
-- 💬 **Discussion Group**: [Join Pump Maker Group](https://t.me/@pumpswapmaker)
-- 👨‍💻 **Developer Contact**: [DM @wifeless](https://t.me/@wifeless) 
+- 💬 **Discussion Group**: https://t.me/@pumpswapmaker
+- 👨‍💻 **Developer Contact**: https://t.me/@wifeless
